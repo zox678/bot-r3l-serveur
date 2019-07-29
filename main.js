@@ -35,7 +35,7 @@ bot.on('ready', () => {
     console.log('Bot Ready !');
 });
 
-bot.login("NjA1MzgwNDMxODk4MjE0NDAw.XT7qlQ.Wh0pKnqdsfRCG6EKibUddSeQzRk")
+bot.login("TOKERN")
 
 
 bot.on("guildMemberAdd", member => {
